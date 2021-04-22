@@ -17,7 +17,7 @@ This sample used [vegeta](https://github.com/tsenart/vegeta) to test chromedp ca
 1. Run main.go in terminal 1:
 
     ```bash
-    go run main.go server
+    go run main.go
     ```
 
 2. Run script attack.sh in terminal 2:
