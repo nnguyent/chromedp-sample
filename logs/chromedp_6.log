@@ -1,0 +1,46 @@
+$ docker logs -f chromedp_sample
+2021/04/22 17:31:56 ID:955411, browser has 1 tabs
+2021/04/22 17:31:56 ID:771831, browser has 2 tabs
+2021/04/22 17:31:56 ID:727096, browser has 3 tabs
+2021/04/22 17:31:56 ID:672409, browser has 4 tabs
+2021/04/22 17:31:57 ID:554455, browser has 5 tabs
+2021/04/22 17:31:57 ID:801765, browser has 6 tabs
+2021/04/22 17:31:57 ID:507485, browser has 7 tabs
+2021/04/22 17:31:57 ID:296249, browser has 8 tabs
+2021/04/22 17:31:57 ID:385934, browser has 9 tabs
+2021/04/22 17:31:58 ID:645175, browser has 10 tabs
+2021/04/22 17:31:58 ID:494854, browser has 11 tabs
+2021/04/22 17:31:58 ID:612162, browser has 12 tabs
+2021/04/22 17:31:58 ID:900839, browser has 13 tabs
+2021/04/22 17:31:58 ID:984236, browser has 14 tabs
+2021/04/22 17:31:59 ID:540736, browser has 15 tabs
+2021/04/22 17:32:17 ID:955411 received event EventTargetCrashed:{"targetId":"24E1555C7D2EBC6334A586B2F50D6018","status":"abnormal","errorCode":256}
+2021/04/22 17:32:17 ID:955411 downloaded failed at URL:http://xxx.s3-website-us-west-2.amazonaws.com/?key1=value1&config=autoexport&key2=value2&loc=en&key3=value3: abnormal
+2021/04/22 17:32:17 ID:507485 received event EventTargetCrashed:{"targetId":"24E1555C7D2EBC6334A586B2F50D6018","status":"abnormal","errorCode":256}
+2021/04/22 17:32:17 ID:672409 received event EventTargetCrashed:{"targetId":"24E1555C7D2EBC6334A586B2F50D6018","status":"abnormal","errorCode":256}
+2021/04/22 17:32:17 ID:507485 downloaded failed at URL:http://xxx.s3-website-us-west-2.amazonaws.com/?key1=value1&config=autoexport&key2=value2&loc=en&key3=value3: abnormal
+2021/04/22 17:32:17 ID:672409 downloaded failed at URL:http://xxx.s3-website-us-west-2.amazonaws.com/?key1=value1&config=autoexport&key2=value2&loc=en&key3=value3: abnormal
+2021/04/22 17:32:17 ID:727096 received event EventTargetCrashed:{"targetId":"24E1555C7D2EBC6334A586B2F50D6018","status":"abnormal","errorCode":256}
+2021/04/22 17:32:17 ID:771831 received event EventTargetCrashed:{"targetId":"24E1555C7D2EBC6334A586B2F50D6018","status":"abnormal","errorCode":256}
+2021/04/22 17:32:17 ID:771831 downloaded failed at URL:http://xxx.s3-website-us-west-2.amazonaws.com/?key1=value1&config=autoexport&key2=value2&loc=en&key3=value3: abnormal
+2021/04/22 17:32:17 ID:554455 received event EventTargetCrashed:{"targetId":"24E1555C7D2EBC6334A586B2F50D6018","status":"abnormal","errorCode":256}
+2021/04/22 17:32:17 ID:554455 downloaded failed at URL:http://xxx.s3-website-us-west-2.amazonaws.com/?key1=value1&config=autoexport&key2=value2&loc=en&key3=value3: abnormal
+2021/04/22 17:32:17 ID:727096 downloaded failed at URL:http://xxx.s3-website-us-west-2.amazonaws.com/?key1=value1&config=autoexport&key2=value2&loc=en&key3=value3: abnormal
+2021/04/22 17:32:17 ID:296249 received event EventTargetCrashed:{"targetId":"24E1555C7D2EBC6334A586B2F50D6018","status":"abnormal","errorCode":256}
+2021/04/22 17:32:17 ID:296249 downloaded failed at URL:http://xxx.s3-website-us-west-2.amazonaws.com/?key1=value1&config=autoexport&key2=value2&loc=en&key3=value3: abnormal
+2021/04/22 17:32:17 ID:900839 received event EventTargetCrashed:{"targetId":"24E1555C7D2EBC6334A586B2F50D6018","status":"abnormal","errorCode":256}
+2021/04/22 17:32:17 ID:900839 downloaded failed at URL:http://xxx.s3-website-us-west-2.amazonaws.com/?key1=value1&config=autoexport&key2=value2&loc=en&key3=value3: abnormal
+2021/04/22 17:32:17 ID:540736 received event EventTargetCrashed:{"targetId":"24E1555C7D2EBC6334A586B2F50D6018","status":"abnormal","errorCode":256}
+2021/04/22 17:32:17 ID:540736 downloaded failed at URL:http://xxx.s3-website-us-west-2.amazonaws.com/?key1=value1&config=autoexport&key2=value2&loc=en&key3=value3: abnormal
+2021/04/22 17:32:17 ID:385934 received event EventTargetCrashed:{"targetId":"24E1555C7D2EBC6334A586B2F50D6018","status":"abnormal","errorCode":256}
+2021/04/22 17:32:17 ID:385934 downloaded failed at URL:http://xxx.s3-website-us-west-2.amazonaws.com/?key1=value1&config=autoexport&key2=value2&loc=en&key3=value3: abnormal
+2021/04/22 17:32:17 ID:612162 received event EventTargetCrashed:{"targetId":"24E1555C7D2EBC6334A586B2F50D6018","status":"abnormal","errorCode":256}
+2021/04/22 17:32:17 ID:612162 downloaded failed at URL:http://xxx.s3-website-us-west-2.amazonaws.com/?key1=value1&config=autoexport&key2=value2&loc=en&key3=value3: abnormal
+2021/04/22 17:32:17 ID:494854 received event EventTargetCrashed:{"targetId":"24E1555C7D2EBC6334A586B2F50D6018","status":"abnormal","errorCode":256}
+2021/04/22 17:32:17 ID:801765 received event EventTargetCrashed:{"targetId":"24E1555C7D2EBC6334A586B2F50D6018","status":"abnormal","errorCode":256}
+2021/04/22 17:32:17 ID:645175 received event EventTargetCrashed:{"targetId":"24E1555C7D2EBC6334A586B2F50D6018","status":"abnormal","errorCode":256}
+2021/04/22 17:32:17 ID:801765 downloaded failed at URL:http://xxx.s3-website-us-west-2.amazonaws.com/?key1=value1&config=autoexport&key2=value2&loc=en&key3=value3: abnormal
+2021/04/22 17:32:17 ID:645175 downloaded failed at URL:http://xxx.s3-website-us-west-2.amazonaws.com/?key1=value1&config=autoexport&key2=value2&loc=en&key3=value3: abnormal
+2021/04/22 17:32:17 ID:494854 downloaded failed at URL:http://xxx.s3-website-us-west-2.amazonaws.com/?key1=value1&config=autoexport&key2=value2&loc=en&key3=value3: abnormal
+2021/04/22 17:32:17 ID:984236 received event EventTargetCrashed:{"targetId":"24E1555C7D2EBC6334A586B2F50D6018","status":"abnormal","errorCode":256}
+2021/04/22 17:32:17 ID:984236 downloaded failed at URL:http://xxx.s3-website-us-west-2.amazonaws.com/?key1=value1&config=autoexport&key2=value2&loc=en&key3=value3: abnormal

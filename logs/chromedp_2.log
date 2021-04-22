@@ -1,0 +1,260 @@
+$ go run main.go
+2021/04/22 21:32:25 ID:678824, browser has 1 tabs
+2021/04/22 21:32:26 ID:439632, browser has 2 tabs
+2021/04/22 21:32:26 ID:522662, browser has 3 tabs
+2021/04/22 21:32:27 ID:678824 download start:{"frameId":"4D02C3CC211A1D9C15D3BC56A53D4C5F","guid":"4aca7ac6-5926-4285-b43c-5652951ce6f5","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 21:32:27 ID:426768, browser has 4 tabs
+2021/04/22 21:32:35 ID:439632 download start:{"frameId":"25F194A115354CDD88CB07A4850494A3","guid":"89210381-eb7c-4d18-be9d-170d7d742050","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 21:32:55 ID:426768 download start:{"frameId":"D16E131EA6FAD19E100F07C727896F67","guid":"c8048698-3cc4-4960-b532-e05d34cea140","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 21:32:55 ID:522662 download start:{"frameId":"301D4A3C74881F70AA0455D5A125795A","guid":"2d1230d4-89ac-4cc1-bcc6-821d9cc5854e","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 21:33:00 ID:678824 download completed:{"guid":"4aca7ac6-5926-4285-b43c-5652951ce6f5","totalBytes":1.39460608e+08,"receivedBytes":1.39460608e+08,"state":"completed"}
+2021/04/22 21:33:00 ID:678824 not found any file in download dir: /Users/n7n/chromedp_sample/download/678824
+2021/04/22 21:33:36 ID:439632 download completed:{"guid":"89210381-eb7c-4d18-be9d-170d7d742050","totalBytes":1.39460608e+08,"receivedBytes":1.39460608e+08,"state":"completed"}
+2021/04/22 21:33:36 ID:439632 not found any file in download dir: /Users/n7n/chromedp_sample/download/439632
+2021/04/22 21:34:11 ID:522662 download completed:{"guid":"2d1230d4-89ac-4cc1-bcc6-821d9cc5854e","totalBytes":1.39460608e+08,"receivedBytes":1.39460608e+08,"state":"completed"}
+2021/04/22 21:34:11 ID:522662, download dir:/Users/n7n/chromedp_sample/download/522662 has 1 files: /Users/n7n/chromedp_sample/download/522662/alpine-standard-3.13.5-x86_64.iso
+2021/04/22 21:34:37 ID:426768 download completed:{"guid":"c8048698-3cc4-4960-b532-e05d34cea140","totalBytes":1.39460608e+08,"receivedBytes":1.39460608e+08,"state":"completed"}
+2021/04/22 21:34:37 ID:426768, download dir:/Users/n7n/chromedp_sample/download/426768 has 1 files: /Users/n7n/chromedp_sample/download/426768/alpine-standard-3.13.5-x86_64.iso
+-------
+2021/04/22 21:36:03 ID:015158, browser has 1 tabs
+2021/04/22 21:36:03 ID:958302, browser has 2 tabs
+2021/04/22 21:36:04 ID:167785, browser has 3 tabs
+2021/04/22 21:36:04 ID:015158 download start:{"frameId":"62B2BCE8C05757A09573F951E436F662","guid":"10c0234d-1a2a-4915-b602-ff6f6f5c7e1f","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 21:36:04 ID:022386, browser has 4 tabs
+2021/04/22 21:36:04 ID:836239, browser has 5 tabs
+2021/04/22 21:36:04 ID:583609, browser has 6 tabs
+2021/04/22 21:36:04 ID:482693, browser has 7 tabs
+2021/04/22 21:36:05 ID:918923, browser has 8 tabs
+2021/04/22 21:36:05 ID:265126, browser has 9 tabs
+2021/04/22 21:36:05 ID:594796, browser has 10 tabs
+2021/04/22 21:36:13 ID:958302 download start:{"frameId":"BD744D3E87FB086DF15225587A6C8CAF","guid":"8f8ae332-6d37-4bd7-8120-16ec91fb76e2","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 21:36:34 ID:022386 download start:{"frameId":"47EBE44992E8CA01FC935EBE6CDB3DE6","guid":"ad2da51f-271b-476b-a0be-f022cb752baa","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 21:36:34 ID:167785 download start:{"frameId":"E70E64C42274D0CC69591DEBC539469A","guid":"24b90877-70d3-46a7-a8aa-bfcd8bb82dc3","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 21:36:40 ID:015158 download completed:{"guid":"10c0234d-1a2a-4915-b602-ff6f6f5c7e1f","totalBytes":1.39460608e+08,"receivedBytes":1.39460608e+08,"state":"completed"}
+2021/04/22 21:36:40 ID:015158, download dir:/Users/n7n/chromedp_sample/download/015158 has 1 files: /Users/n7n/chromedp_sample/download/015158/alpine-standard-3.13.5-x86_64.iso
+2021/04/22 21:36:54 ID:836239 download start:{"frameId":"E3756A7CF6B828C597959E3D53704454","guid":"be070d7f-5cdb-4e34-991a-b07e04c7385e","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 21:36:54 ID:836239 download canceled:{"guid":"be070d7f-5cdb-4e34-991a-b07e04c7385e","totalBytes":1.39460608e+08,"receivedBytes":0,"state":"canceled"}
+2021/04/22 21:36:54 ID:836239 not found any file in download dir: /Users/n7n/chromedp_sample/download/836239
+2021/04/22 21:36:54 ID:583609 download start:{"frameId":"95B2C478F3ACB47BA13365D4308D18EB","guid":"a38e5424-550a-4458-876d-17715e8461f1","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 21:36:54 ID:583609 download canceled:{"guid":"a38e5424-550a-4458-876d-17715e8461f1","totalBytes":1.39460608e+08,"receivedBytes":0,"state":"canceled"}
+2021/04/22 21:36:54 ID:583609 not found any file in download dir: /Users/n7n/chromedp_sample/download/583609
+2021/04/22 21:36:54 ID:482693 download start:{"frameId":"E2B14FB3E579BE5D90917A487B2306D8","guid":"8e080d24-bf7f-41f8-86d3-b7e49d89f104","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 21:36:54 ID:482693 download canceled:{"guid":"8e080d24-bf7f-41f8-86d3-b7e49d89f104","totalBytes":1.39460608e+08,"receivedBytes":0,"state":"canceled"}
+2021/04/22 21:36:54 ID:482693 not found any file in download dir: /Users/n7n/chromedp_sample/download/482693
+2021/04/22 21:36:54 ID:918923 download start:{"frameId":"54637AB50BDA59F827A26FD659016CF9","guid":"78574b9b-810f-4c79-8e05-9200ff38ab2e","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 21:36:54 ID:918923 download canceled:{"guid":"78574b9b-810f-4c79-8e05-9200ff38ab2e","totalBytes":1.39460608e+08,"receivedBytes":0,"state":"canceled"}
+2021/04/22 21:36:54 ID:918923 not found any file in download dir: /Users/n7n/chromedp_sample/download/918923
+2021/04/22 21:36:55 ID:265126 download start:{"frameId":"498EF86BAD174603EAEFA2EDA6C3924F","guid":"bb749a07-64f4-4ede-834e-4a40f51cea3d","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 21:36:55 ID:265126 download canceled:{"guid":"bb749a07-64f4-4ede-834e-4a40f51cea3d","totalBytes":1.39460608e+08,"receivedBytes":0,"state":"canceled"}
+2021/04/22 21:36:55 ID:265126 not found any file in download dir: /Users/n7n/chromedp_sample/download/265126
+2021/04/22 21:36:55 ID:594796 download start:{"frameId":"1B463277B01362DDAAB9B44A0E4A5432","guid":"75654583-31ba-400a-a8d6-40a9aab4e276","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 21:36:55 ID:594796 download canceled:{"guid":"75654583-31ba-400a-a8d6-40a9aab4e276","totalBytes":1.39460608e+08,"receivedBytes":0,"state":"canceled"}
+2021/04/22 21:36:55 ID:594796, download dir:/Users/n7n/chromedp_sample/download/594796 has 3 files: /Users/n7n/chromedp_sample/download/594796/alpine-standard-3.13.5-x86_64.iso (1).crdownload,/Users/n7n/chromedp_sample/download/594796/alpine-standard-3.13.5-x86_64.iso (2).crdownload,/Users/n7n/chromedp_sample/download/594796/alpine-standard-3.13.5-x86_64.iso.crdownload
+2021/04/22 21:37:12 ID:958302 download completed:{"guid":"8f8ae332-6d37-4bd7-8120-16ec91fb76e2","totalBytes":1.39460608e+08,"receivedBytes":1.39460608e+08,"state":"completed"}
+2021/04/22 21:37:12 ID:958302 not found any file in download dir: /Users/n7n/chromedp_sample/download/958302
+2021/04/22 21:37:44 ID:167785 download completed:{"guid":"24b90877-70d3-46a7-a8aa-bfcd8bb82dc3","totalBytes":1.39460608e+08,"receivedBytes":1.39460608e+08,"state":"completed"}
+2021/04/22 21:37:44 ID:167785 not found any file in download dir: /Users/n7n/chromedp_sample/download/167785
+2021/04/22 21:38:15 ID:022386 download completed:{"guid":"ad2da51f-271b-476b-a0be-f022cb752baa","totalBytes":1.39460608e+08,"receivedBytes":1.39460608e+08,"state":"completed"}
+2021/04/22 21:38:15 ID:022386 not found any file in download dir: /Users/n7n/chromedp_sample/download/022386
+2021/04/22 21:39:52 ID:564311, browser has 1 tabs
+2021/04/22 21:39:52 ID:319760, browser has 2 tabs
+2021/04/22 21:39:53 ID:564311 download start:{"frameId":"EE9C4DD8A40C7D050940A216A9CFD0F6","guid":"dc9c1503-05b9-42cc-b354-a41a923850a1","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 21:39:53 ID:793594, browser has 3 tabs
+2021/04/22 21:39:53 ID:114529, browser has 4 tabs
+2021/04/22 21:39:53 ID:302596, browser has 5 tabs
+2021/04/22 21:39:53 ID:830670, browser has 6 tabs
+2021/04/22 21:39:53 ID:384238, browser has 7 tabs
+2021/04/22 21:39:54 ID:934514, browser has 8 tabs
+2021/04/22 21:39:54 ID:924853, browser has 9 tabs
+2021/04/22 21:39:54 ID:088581, browser has 10 tabs
+2021/04/22 21:39:54 ID:730922, browser has 11 tabs
+2021/04/22 21:39:54 ID:279015, browser has 12 tabs
+2021/04/22 21:39:55 ID:292647, browser has 13 tabs
+2021/04/22 21:39:55 ID:182190, browser has 14 tabs
+2021/04/22 21:39:55 ID:000012, browser has 15 tabs
+2021/04/22 21:39:55 ID:665947, browser has 16 tabs
+2021/04/22 21:39:55 ID:976735, browser has 17 tabs
+2021/04/22 21:39:56 ID:341233, browser has 18 tabs
+2021/04/22 21:39:56 ID:265849, browser has 19 tabs
+2021/04/22 21:39:56 ID:665646, browser has 20 tabs
+2021/04/22 21:39:56 ID:926458, browser has 21 tabs
+2021/04/22 21:39:56 ID:498162, browser has 22 tabs
+2021/04/22 21:39:57 ID:802208, browser has 23 tabs
+2021/04/22 21:39:57 ID:341309, browser has 24 tabs
+2021/04/22 21:39:57 ID:253863, browser has 25 tabs
+2021/04/22 21:40:03 ID:319760 download start:{"frameId":"6D9D2F6239E2A9C6D2612FBC744C77B8","guid":"739fae11-815d-464c-a3c5-5fa13b5673a0","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 21:40:23 ID:793594 download start:{"frameId":"2B55CAA6AB35B354C1880B01DC5673B0","guid":"d94e9d52-3cfd-41aa-8144-9a029f802cef","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 21:40:23 ID:114529 download start:{"frameId":"2673A29109201E682F1A8C488CCE81E0","guid":"0adcac8a-3a6d-491e-a450-ab9334567e72","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 21:40:29 ID:564311 download completed:{"guid":"dc9c1503-05b9-42cc-b354-a41a923850a1","totalBytes":1.39460608e+08,"receivedBytes":1.39460608e+08,"state":"completed"}
+2021/04/22 21:40:29 ID:564311 not found any file in download dir: /Users/n7n/chromedp_sample/download/564311
+2021/04/22 21:40:43 ID:302596 download start:{"frameId":"EC2EBF0FB90FAA3645875418731C7A9F","guid":"796a6a25-6130-4d66-9ca2-0b778477ad7e","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 21:40:43 ID:830670 download start:{"frameId":"DC183DE7DE0BA73F1458293C5F74DDF7","guid":"23cec0fe-5f90-40b1-b706-c0f15840ab70","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 21:40:43 ID:302596 download canceled:{"guid":"796a6a25-6130-4d66-9ca2-0b778477ad7e","totalBytes":1.39460608e+08,"receivedBytes":0,"state":"canceled"}
+2021/04/22 21:40:43 ID:302596 not found any file in download dir: /Users/n7n/chromedp_sample/download/302596
+2021/04/22 21:40:43 ID:830670 download canceled:{"guid":"23cec0fe-5f90-40b1-b706-c0f15840ab70","totalBytes":1.39460608e+08,"receivedBytes":0,"state":"canceled"}
+2021/04/22 21:40:43 ID:830670 not found any file in download dir: /Users/n7n/chromedp_sample/download/830670
+2021/04/22 21:40:44 ID:384238 download start:{"frameId":"05AE6291431EF0E498B4CDFCA383417B","guid":"1a19113c-a807-4137-82ea-21332fb57c47","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 21:40:44 ID:384238 download canceled:{"guid":"1a19113c-a807-4137-82ea-21332fb57c47","totalBytes":1.39460608e+08,"receivedBytes":0,"state":"canceled"}
+2021/04/22 21:40:44 ID:384238 not found any file in download dir: /Users/n7n/chromedp_sample/download/384238
+2021/04/22 21:40:44 ID:934514 download start:{"frameId":"24AE370A91BA2A10A571D1CA0F3EF260","guid":"3084aa75-c0d2-4af5-966d-72f0f0bd6079","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 21:40:44 ID:934514 download canceled:{"guid":"3084aa75-c0d2-4af5-966d-72f0f0bd6079","totalBytes":1.39460608e+08,"receivedBytes":0,"state":"canceled"}
+2021/04/22 21:40:44 ID:934514 not found any file in download dir: /Users/n7n/chromedp_sample/download/934514
+2021/04/22 21:40:44 ID:924853 download start:{"frameId":"556EE03EB055BE9C730F7DD7B07D6A00","guid":"e830f6b5-ad0a-456d-ba4c-c38eeef8b431","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 21:40:44 ID:924853 download canceled:{"guid":"e830f6b5-ad0a-456d-ba4c-c38eeef8b431","totalBytes":1.39460608e+08,"receivedBytes":0,"state":"canceled"}
+2021/04/22 21:40:44 ID:924853 not found any file in download dir: /Users/n7n/chromedp_sample/download/924853
+2021/04/22 21:40:45 ID:088581 download start:{"frameId":"8451248293B11D9DCA1EBADD44336BE9","guid":"68705224-99ad-4b3e-8356-fdacc964f7be","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 21:40:45 ID:088581 download canceled:{"guid":"68705224-99ad-4b3e-8356-fdacc964f7be","totalBytes":1.39460608e+08,"receivedBytes":0,"state":"canceled"}
+2021/04/22 21:40:45 ID:088581 not found any file in download dir: /Users/n7n/chromedp_sample/download/088581
+2021/04/22 21:40:48 ID:730922 download start:{"frameId":"741A5AE5AEAD3067409DCE163A0E1B4E","guid":"70debb1f-86d0-4602-9e25-fe6cc7cfc054","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 21:40:48 ID:730922 download canceled:{"guid":"70debb1f-86d0-4602-9e25-fe6cc7cfc054","totalBytes":1.39460608e+08,"receivedBytes":0,"state":"canceled"}
+2021/04/22 21:40:48 ID:730922 not found any file in download dir: /Users/n7n/chromedp_sample/download/730922
+2021/04/22 21:40:49 ID:279015 download start:{"frameId":"FF8EE4C3C3D5DF9A605787AC95038889","guid":"0411a23c-8b5c-49d7-b9ba-4bb02ceb94b5","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 21:40:49 ID:279015 download canceled:{"guid":"0411a23c-8b5c-49d7-b9ba-4bb02ceb94b5","totalBytes":1.39460608e+08,"receivedBytes":0,"state":"canceled"}
+2021/04/22 21:40:49 ID:279015 not found any file in download dir: /Users/n7n/chromedp_sample/download/279015
+2021/04/22 21:40:50 ID:292647 download start:{"frameId":"CA294FD743B69A41E1548DD5AFE10B9B","guid":"f9279ad1-3194-4944-a820-e060a3a51828","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 21:40:50 ID:292647 download canceled:{"guid":"f9279ad1-3194-4944-a820-e060a3a51828","totalBytes":1.39460608e+08,"receivedBytes":0,"state":"canceled"}
+2021/04/22 21:40:50 ID:292647 not found any file in download dir: /Users/n7n/chromedp_sample/download/292647
+2021/04/22 21:40:50 ID:182190 download start:{"frameId":"E86B5475C75A6A7DC7BABAF34CE39B92","guid":"f99e3666-6fcb-4a14-93c5-1f1b9ec611af","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 21:40:50 ID:182190 download canceled:{"guid":"f99e3666-6fcb-4a14-93c5-1f1b9ec611af","totalBytes":1.39460608e+08,"receivedBytes":0,"state":"canceled"}
+2021/04/22 21:40:50 ID:182190 not found any file in download dir: /Users/n7n/chromedp_sample/download/182190
+2021/04/22 21:40:51 ID:000012 download start:{"frameId":"855A21B9765A6FCD3F4FF0138EB045A1","guid":"2d6ceccb-cab5-43e5-8d34-30fc9255783e","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 21:40:51 ID:000012 download canceled:{"guid":"2d6ceccb-cab5-43e5-8d34-30fc9255783e","totalBytes":1.39460608e+08,"receivedBytes":0,"state":"canceled"}
+2021/04/22 21:40:51 ID:000012 not found any file in download dir: /Users/n7n/chromedp_sample/download/000012
+2021/04/22 21:40:51 ID:665947 download start:{"frameId":"DC757E988B7CAB13A5D4B2A5B77B0817","guid":"8295999f-f221-4f19-9237-5047c238d096","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 21:40:51 ID:665947 download canceled:{"guid":"8295999f-f221-4f19-9237-5047c238d096","totalBytes":1.39460608e+08,"receivedBytes":0,"state":"canceled"}
+2021/04/22 21:40:51 ID:665947 not found any file in download dir: /Users/n7n/chromedp_sample/download/665947
+2021/04/22 21:40:51 ID:976735 download start:{"frameId":"209C9856B2BBB2925C2B79131C80F96D","guid":"85094090-e9bb-4c18-8549-c63ab726b464","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 21:40:51 ID:976735 download canceled:{"guid":"85094090-e9bb-4c18-8549-c63ab726b464","totalBytes":1.39460608e+08,"receivedBytes":0,"state":"canceled"}
+2021/04/22 21:40:51 ID:976735 not found any file in download dir: /Users/n7n/chromedp_sample/download/976735
+2021/04/22 21:40:52 ID:341233 download start:{"frameId":"F049C497DA97201CF2C567BE646A285A","guid":"af86df79-944b-4354-bdd6-f11fae59c26c","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 21:40:52 ID:341233 download canceled:{"guid":"af86df79-944b-4354-bdd6-f11fae59c26c","totalBytes":1.39460608e+08,"receivedBytes":0,"state":"canceled"}
+2021/04/22 21:40:52 ID:341233 not found any file in download dir: /Users/n7n/chromedp_sample/download/341233
+2021/04/22 21:40:52 ID:265849 download start:{"frameId":"245DF3C2F1890A2F0AEB8C13AF471835","guid":"01bc4e44-f10e-4752-86cc-4089282b52f6","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 21:40:52 ID:265849 download canceled:{"guid":"01bc4e44-f10e-4752-86cc-4089282b52f6","totalBytes":1.39460608e+08,"receivedBytes":0,"state":"canceled"}
+2021/04/22 21:40:52 ID:265849 not found any file in download dir: /Users/n7n/chromedp_sample/download/265849
+2021/04/22 21:40:53 ID:665646 download start:{"frameId":"E081A5C8B27DDE8ECD64304ACFDA96D3","guid":"889e402c-8af8-401b-aa24-6042cd76b7a6","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 21:40:53 ID:665646 download canceled:{"guid":"889e402c-8af8-401b-aa24-6042cd76b7a6","totalBytes":1.39460608e+08,"receivedBytes":0,"state":"canceled"}
+2021/04/22 21:40:53 ID:665646 not found any file in download dir: /Users/n7n/chromedp_sample/download/665646
+2021/04/22 21:40:53 ID:926458 download start:{"frameId":"4A978CBFA68FDA565158C1604B67FA3D","guid":"79bffdfd-f613-4f76-bb18-a19988ac138c","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 21:40:53 ID:926458 download canceled:{"guid":"79bffdfd-f613-4f76-bb18-a19988ac138c","totalBytes":1.39460608e+08,"receivedBytes":0,"state":"canceled"}
+2021/04/22 21:40:53 ID:926458 not found any file in download dir: /Users/n7n/chromedp_sample/download/926458
+2021/04/22 21:40:53 ID:498162 download start:{"frameId":"F5BEFDCA9B6DD94767046B25929834F5","guid":"609c9a23-23c9-4b42-a9cb-9ba025964691","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 21:40:53 ID:498162 download canceled:{"guid":"609c9a23-23c9-4b42-a9cb-9ba025964691","totalBytes":1.39460608e+08,"receivedBytes":0,"state":"canceled"}
+2021/04/22 21:40:53 ID:498162 not found any file in download dir: /Users/n7n/chromedp_sample/download/498162
+2021/04/22 21:40:54 ID:802208 download start:{"frameId":"A5067E9BC19939AAE9228B01EE2FA7F4","guid":"0d64752e-5f08-4366-aee1-17465f5af7b1","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 21:40:54 ID:802208 download canceled:{"guid":"0d64752e-5f08-4366-aee1-17465f5af7b1","totalBytes":1.39460608e+08,"receivedBytes":0,"state":"canceled"}
+2021/04/22 21:40:54 ID:802208 not found any file in download dir: /Users/n7n/chromedp_sample/download/802208
+2021/04/22 21:40:54 ID:341309 download start:{"frameId":"40E0F97B637D48C63758EFF7AABBFF84","guid":"292bc900-7101-478b-b6e9-eeec17a1e2a3","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 21:40:54 ID:341309 download canceled:{"guid":"292bc900-7101-478b-b6e9-eeec17a1e2a3","totalBytes":1.39460608e+08,"receivedBytes":0,"state":"canceled"}
+2021/04/22 21:40:54 ID:341309 not found any file in download dir: /Users/n7n/chromedp_sample/download/341309
+2021/04/22 21:40:54 ID:253863 download start:{"frameId":"D909C7936213F685168D31680BDD78DA","guid":"c2f6622a-e7a7-4010-a152-3ca00a61fc8d","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 21:40:54 ID:253863 download canceled:{"guid":"c2f6622a-e7a7-4010-a152-3ca00a61fc8d","totalBytes":1.39460608e+08,"receivedBytes":0,"state":"canceled"}
+2021/04/22 21:40:54 ID:253863, download dir:/Users/n7n/chromedp_sample/download/253863 has 3 files: /Users/n7n/chromedp_sample/download/253863/alpine-standard-3.13.5-x86_64.iso (1).crdownload,/Users/n7n/chromedp_sample/download/253863/alpine-standard-3.13.5-x86_64.iso (2).crdownload,/Users/n7n/chromedp_sample/download/253863/alpine-standard-3.13.5-x86_64.iso.crdownload
+2021/04/22 21:41:05 ID:319760 download completed:{"guid":"739fae11-815d-464c-a3c5-5fa13b5673a0","totalBytes":1.39460608e+08,"receivedBytes":1.39460608e+08,"state":"completed"}
+2021/04/22 21:41:05 ID:319760, download dir:/Users/n7n/chromedp_sample/download/319760 has 1 files: /Users/n7n/chromedp_sample/download/319760/alpine-standard-3.13.5-x86_64.iso
+2021/04/22 21:41:41 ID:793594 download completed:{"guid":"d94e9d52-3cfd-41aa-8144-9a029f802cef","totalBytes":1.39460608e+08,"receivedBytes":1.39460608e+08,"state":"completed"}
+2021/04/22 21:41:41 ID:793594 not found any file in download dir: /Users/n7n/chromedp_sample/download/793594
+2021/04/22 21:42:17 ID:114529 download completed:{"guid":"0adcac8a-3a6d-491e-a450-ab9334567e72","totalBytes":1.39460608e+08,"receivedBytes":1.39460608e+08,"state":"completed"}
+2021/04/22 21:42:17 ID:114529 not found any file in download dir: /Users/n7n/chromedp_sample/download/114529
+^Csignal: interrupt
+macbook_autonomous@ ~/dev/n7n/chromedp_sample % go run main.go                                                                       [1]
+2021/04/22 21:43:23 ID:727537, browser has 1 tabs
+2021/04/22 21:43:23 ID:398512, browser has 2 tabs
+2021/04/22 21:43:23 ID:004286, browser has 3 tabs
+2021/04/22 21:43:23 ID:300768, browser has 4 tabs
+2021/04/22 21:43:23 ID:398512 download start:{"frameId":"E74C95EFC0DB2675E92FB369543D8021","guid":"1396daf3-245c-49b8-92f1-793fd3e3896d","url":"http://www.mersenne.org/ftp_root/gimps/p95v287.MacOSX.noGUI.tar.gz","suggestedFilename":"p95v287.MacOSX.noGUI.tar.gz"}
+2021/04/22 21:43:23 ID:727537 download start:{"frameId":"A18D5A2CFF8F910AFB9DEFC386DB0413","guid":"a0453c1c-c6ee-4050-9d13-5468b16be1fc","url":"http://www.mersenne.org/ftp_root/gimps/p95v287.MacOSX.noGUI.tar.gz","suggestedFilename":"p95v287.MacOSX.noGUI.tar.gz"}
+2021/04/22 21:43:23 ID:004286 download start:{"frameId":"3D46AC545496EF1724352FACB6CF4D1A","guid":"603ff757-8d49-499d-9116-be9547eeaf71","url":"http://www.mersenne.org/ftp_root/gimps/p95v287.MacOSX.noGUI.tar.gz","suggestedFilename":"p95v287.MacOSX.noGUI.tar.gz"}
+2021/04/22 21:43:23 ID:300605, browser has 5 tabs
+2021/04/22 21:43:24 ID:300768 download start:{"frameId":"DDBC488D9E6C8C5DA7215D60641E4F72","guid":"ba6b6066-cb84-4ebf-b2a9-5f7daa9601d3","url":"http://www.mersenne.org/ftp_root/gimps/p95v287.MacOSX.noGUI.tar.gz","suggestedFilename":"p95v287.MacOSX.noGUI.tar.gz"}
+2021/04/22 21:43:24 ID:300605 download start:{"frameId":"1DAA132337ED64706DB42AEB239168B7","guid":"3e496732-6b5d-4161-be19-9721ce6ca18b","url":"http://www.mersenne.org/ftp_root/gimps/p95v287.MacOSX.noGUI.tar.gz","suggestedFilename":"p95v287.MacOSX.noGUI.tar.gz"}
+2021/04/22 21:43:24 ID:465856, browser has 6 tabs
+2021/04/22 21:43:24 ID:465856 download start:{"frameId":"8BD0522FCB672EA496B35B8BBF59E9A8","guid":"5327b2c1-57cb-419b-a1bb-79dadc25a5c0","url":"http://www.mersenne.org/ftp_root/gimps/p95v287.MacOSX.noGUI.tar.gz","suggestedFilename":"p95v287.MacOSX.noGUI.tar.gz"}
+2021/04/22 21:43:24 ID:499319, browser has 7 tabs
+2021/04/22 21:43:24 ID:499319 download start:{"frameId":"029401018BA8A00515A50E50D506BD3F","guid":"c5a37e46-29a9-4020-894f-04ae2f2ab967","url":"http://www.mersenne.org/ftp_root/gimps/p95v287.MacOSX.noGUI.tar.gz","suggestedFilename":"p95v287.MacOSX.noGUI.tar.gz"}
+2021/04/22 21:43:24 ID:128940, browser has 8 tabs
+2021/04/22 21:43:24 ID:128940 download start:{"frameId":"0FEB5266352EA94E5B7930D43C43D88E","guid":"a66abf28-2df4-45e4-927f-fc984f41ec65","url":"http://www.mersenne.org/ftp_root/gimps/p95v287.MacOSX.noGUI.tar.gz","suggestedFilename":"p95v287.MacOSX.noGUI.tar.gz"}
+2021/04/22 21:43:24 ID:824414, browser has 9 tabs
+2021/04/22 21:43:24 ID:824414 download start:{"frameId":"0CCADA7313642CDB3016DA2D65B3535B","guid":"f1daf727-693b-4d9c-b11b-148e8060aead","url":"http://www.mersenne.org/ftp_root/gimps/p95v287.MacOSX.noGUI.tar.gz","suggestedFilename":"p95v287.MacOSX.noGUI.tar.gz"}
+2021/04/22 21:43:24 ID:575361, browser has 10 tabs
+2021/04/22 21:43:25 ID:575361 download start:{"frameId":"30A6041C63DF52687C5C06861286F532","guid":"4b79928d-40e4-4613-890e-7e29034ea696","url":"http://www.mersenne.org/ftp_root/gimps/p95v287.MacOSX.noGUI.tar.gz","suggestedFilename":"p95v287.MacOSX.noGUI.tar.gz"}
+2021/04/22 21:43:25 ID:251352, browser has 11 tabs
+2021/04/22 21:43:25 ID:251352 download start:{"frameId":"75FA7458871A99C9BD1EC7A9E22BAA8A","guid":"407e09f7-749b-4f1b-b133-dd8ea1878f0a","url":"http://www.mersenne.org/ftp_root/gimps/p95v287.MacOSX.noGUI.tar.gz","suggestedFilename":"p95v287.MacOSX.noGUI.tar.gz"}
+2021/04/22 21:43:25 ID:762142, browser has 12 tabs
+2021/04/22 21:43:25 ID:762142 download start:{"frameId":"1014993709C1B219F86FE652750FF7E9","guid":"a288b025-0278-43f5-a11a-109edfae00ff","url":"http://www.mersenne.org/ftp_root/gimps/p95v287.MacOSX.noGUI.tar.gz","suggestedFilename":"p95v287.MacOSX.noGUI.tar.gz"}
+2021/04/22 21:43:25 ID:564994, browser has 13 tabs
+2021/04/22 21:43:25 ID:564994 download start:{"frameId":"F9F83272A6DD0B8D3231A155C233C64C","guid":"29ee31ac-1c0d-4316-a263-a49d3f1b4cbb","url":"http://www.mersenne.org/ftp_root/gimps/p95v287.MacOSX.noGUI.tar.gz","suggestedFilename":"p95v287.MacOSX.noGUI.tar.gz"}
+2021/04/22 21:43:25 ID:733321, browser has 14 tabs
+2021/04/22 21:43:25 ID:733321 download start:{"frameId":"7EF07F03721B239CC638D0B54AE8074E","guid":"ea9c1ed4-a88a-4349-ab57-eb928a1ae76b","url":"http://www.mersenne.org/ftp_root/gimps/p95v287.MacOSX.noGUI.tar.gz","suggestedFilename":"p95v287.MacOSX.noGUI.tar.gz"}
+2021/04/22 21:43:25 ID:604255, browser has 15 tabs
+2021/04/22 21:43:26 ID:604255 download start:{"frameId":"4296E610402D7D254B502843899A53ED","guid":"0653e486-69b3-42dc-836f-dfee4f3fcc90","url":"http://www.mersenne.org/ftp_root/gimps/p95v287.MacOSX.noGUI.tar.gz","suggestedFilename":"p95v287.MacOSX.noGUI.tar.gz"}
+2021/04/22 21:43:26 ID:360920, browser has 16 tabs
+2021/04/22 21:43:26 ID:360920 download start:{"frameId":"C44E4B629503EF3FDA155801534537F9","guid":"d5f9edcf-49ac-499e-82b2-6f5b20c25d77","url":"http://www.mersenne.org/ftp_root/gimps/p95v287.MacOSX.noGUI.tar.gz","suggestedFilename":"p95v287.MacOSX.noGUI.tar.gz"}
+2021/04/22 21:43:26 ID:124596, browser has 17 tabs
+2021/04/22 21:43:26 ID:124596 download start:{"frameId":"D67F0D8CB82A113B1EF973FA0720B53F","guid":"bbb65eaa-b6c4-4a5d-9a7d-095b4861d6c4","url":"http://www.mersenne.org/ftp_root/gimps/p95v287.MacOSX.noGUI.tar.gz","suggestedFilename":"p95v287.MacOSX.noGUI.tar.gz"}
+2021/04/22 21:43:26 ID:040336, browser has 18 tabs
+2021/04/22 21:43:26 ID:040336 download start:{"frameId":"54465D4A48DE7591750C121F529A8DCC","guid":"2a8cd149-ccc0-402f-8407-a4ec5258e0af","url":"http://www.mersenne.org/ftp_root/gimps/p95v287.MacOSX.noGUI.tar.gz","suggestedFilename":"p95v287.MacOSX.noGUI.tar.gz"}
+2021/04/22 21:43:26 ID:488854, browser has 19 tabs
+2021/04/22 21:43:26 ID:488854 download start:{"frameId":"25FB82A3E6DC77E80E4E18B9C61E0737","guid":"bd297621-3a95-4e05-8c43-e5ee42781ad8","url":"http://www.mersenne.org/ftp_root/gimps/p95v287.MacOSX.noGUI.tar.gz","suggestedFilename":"p95v287.MacOSX.noGUI.tar.gz"}
+2021/04/22 21:43:26 ID:720037, browser has 20 tabs
+2021/04/22 21:43:27 ID:720037 download start:{"frameId":"FDDDDDC825D90487BD5221C019B9B508","guid":"04619062-920d-4b35-bba8-bce66497a26a","url":"http://www.mersenne.org/ftp_root/gimps/p95v287.MacOSX.noGUI.tar.gz","suggestedFilename":"p95v287.MacOSX.noGUI.tar.gz"}
+2021/04/22 21:43:27 ID:143973, browser has 21 tabs
+2021/04/22 21:43:27 ID:143973 download start:{"frameId":"E872F8B40FF069657F3FB31FC9D4D36F","guid":"085cd3e7-9a3d-4214-8574-ab0156132e6e","url":"http://www.mersenne.org/ftp_root/gimps/p95v287.MacOSX.noGUI.tar.gz","suggestedFilename":"p95v287.MacOSX.noGUI.tar.gz"}
+2021/04/22 21:43:27 ID:121181, browser has 22 tabs
+2021/04/22 21:43:27 ID:121181 download start:{"frameId":"C49796EF8819B023DA106C9CF98E9339","guid":"b256f443-ea55-4fff-b64c-5c28ba4c9002","url":"http://www.mersenne.org/ftp_root/gimps/p95v287.MacOSX.noGUI.tar.gz","suggestedFilename":"p95v287.MacOSX.noGUI.tar.gz"}
+2021/04/22 21:43:27 ID:822081, browser has 23 tabs
+2021/04/22 21:43:27 ID:822081 download start:{"frameId":"CE2339EA303A854BE02D165B43771A48","guid":"35b74713-5f8a-4061-8977-0b989a89931d","url":"http://www.mersenne.org/ftp_root/gimps/p95v287.MacOSX.noGUI.tar.gz","suggestedFilename":"p95v287.MacOSX.noGUI.tar.gz"}
+2021/04/22 21:43:27 ID:775870, browser has 24 tabs
+2021/04/22 21:43:27 ID:775870 download start:{"frameId":"80C1EF755DE0C40EB1A9982020234318","guid":"6a4186ee-86fc-44ad-ad79-fe82a6d899ff","url":"http://www.mersenne.org/ftp_root/gimps/p95v287.MacOSX.noGUI.tar.gz","suggestedFilename":"p95v287.MacOSX.noGUI.tar.gz"}
+2021/04/22 21:43:27 ID:630952, browser has 25 tabs
+2021/04/22 21:43:28 ID:630952 download start:{"frameId":"3F62C6AD2B38DED63037D9847B79F9C9","guid":"e3e9b005-b656-443b-8749-245afa6fcf32","url":"http://www.mersenne.org/ftp_root/gimps/p95v287.MacOSX.noGUI.tar.gz","suggestedFilename":"p95v287.MacOSX.noGUI.tar.gz"}
+2021/04/22 21:43:43 ID:727537 download completed:{"guid":"a0453c1c-c6ee-4050-9d13-5468b16be1fc","totalBytes":3.665377e+06,"receivedBytes":3.665377e+06,"state":"completed"}
+2021/04/22 21:43:43 ID:727537 not found any file in download dir: /Users/n7n/chromedp_sample/download/727537
+2021/04/22 21:43:43 ID:124596 download completed:{"guid":"bbb65eaa-b6c4-4a5d-9a7d-095b4861d6c4","totalBytes":3.665377e+06,"receivedBytes":3.665377e+06,"state":"completed"}
+2021/04/22 21:43:43 ID:124596, download dir:/Users/n7n/chromedp_sample/download/124596 has 1 files: /Users/n7n/chromedp_sample/download/124596/p95v287.MacOSX.noGUI.tar.gz
+2021/04/22 21:43:43 ID:775870 download completed:{"guid":"6a4186ee-86fc-44ad-ad79-fe82a6d899ff","totalBytes":3.665377e+06,"receivedBytes":3.665377e+06,"state":"completed"}
+2021/04/22 21:43:43 ID:128940 download completed:{"guid":"a66abf28-2df4-45e4-927f-fc984f41ec65","totalBytes":3.665377e+06,"receivedBytes":3.665377e+06,"state":"completed"}
+2021/04/22 21:43:43 ID:775870, download dir:/Users/n7n/chromedp_sample/download/775870 has 1 files: /Users/n7n/chromedp_sample/download/775870/p95v287.MacOSX.noGUI.tar.gz
+2021/04/22 21:43:43 ID:128940, download dir:/Users/n7n/chromedp_sample/download/128940 has 1 files: /Users/n7n/chromedp_sample/download/128940/p95v287.MacOSX.noGUI.tar.gz
+2021/04/22 21:43:43 ID:762142 download completed:{"guid":"a288b025-0278-43f5-a11a-109edfae00ff","totalBytes":3.665377e+06,"receivedBytes":3.665377e+06,"state":"completed"}
+2021/04/22 21:43:43 ID:465856 download completed:{"guid":"5327b2c1-57cb-419b-a1bb-79dadc25a5c0","totalBytes":3.665377e+06,"receivedBytes":3.665377e+06,"state":"completed"}
+2021/04/22 21:43:43 ID:488854 download completed:{"guid":"bd297621-3a95-4e05-8c43-e5ee42781ad8","totalBytes":3.665377e+06,"receivedBytes":3.665377e+06,"state":"completed"}
+2021/04/22 21:43:43 ID:499319 download completed:{"guid":"c5a37e46-29a9-4020-894f-04ae2f2ab967","totalBytes":3.665377e+06,"receivedBytes":3.665377e+06,"state":"completed"}
+2021/04/22 21:43:43 ID:762142, download dir:/Users/n7n/chromedp_sample/download/762142 has 1 files: /Users/n7n/chromedp_sample/download/762142/p95v287.MacOSX.noGUI.tar.gz
+2021/04/22 21:43:43 ID:824414 download completed:{"guid":"f1daf727-693b-4d9c-b11b-148e8060aead","totalBytes":3.665377e+06,"receivedBytes":3.665377e+06,"state":"completed"}
+2021/04/22 21:43:43 ID:465856, download dir:/Users/n7n/chromedp_sample/download/465856 has 1 files: /Users/n7n/chromedp_sample/download/465856/p95v287.MacOSX.noGUI.tar.gz
+2021/04/22 21:43:43 ID:564994 download completed:{"guid":"29ee31ac-1c0d-4316-a263-a49d3f1b4cbb","totalBytes":3.665377e+06,"receivedBytes":3.665377e+06,"state":"completed"}
+2021/04/22 21:43:43 ID:499319, download dir:/Users/n7n/chromedp_sample/download/499319 has 1 files: /Users/n7n/chromedp_sample/download/499319/p95v287.MacOSX.noGUI.tar.gz
+2021/04/22 21:43:43 ID:824414, download dir:/Users/n7n/chromedp_sample/download/824414 has 1 files: /Users/n7n/chromedp_sample/download/824414/p95v287.MacOSX.noGUI.tar.gz
+2021/04/22 21:43:43 ID:564994, download dir:/Users/n7n/chromedp_sample/download/564994 has 1 files: /Users/n7n/chromedp_sample/download/564994/p95v287.MacOSX.noGUI.tar.gz
+2021/04/22 21:43:43 ID:488854, download dir:/Users/n7n/chromedp_sample/download/488854 has 1 files: /Users/n7n/chromedp_sample/download/488854/p95v287.MacOSX.noGUI.tar.gz
+2021/04/22 21:43:43 ID:720037 download completed:{"guid":"04619062-920d-4b35-bba8-bce66497a26a","totalBytes":3.665377e+06,"receivedBytes":3.665377e+06,"state":"completed"}
+2021/04/22 21:43:43 ID:720037, download dir:/Users/n7n/chromedp_sample/download/720037 has 1 files: /Users/n7n/chromedp_sample/download/720037/p95v287.MacOSX.noGUI.tar.gz
+2021/04/22 21:43:43 ID:143973 download completed:{"guid":"085cd3e7-9a3d-4214-8574-ab0156132e6e","totalBytes":3.665377e+06,"receivedBytes":3.665377e+06,"state":"completed"}
+2021/04/22 21:43:43 ID:251352 download completed:{"guid":"407e09f7-749b-4f1b-b133-dd8ea1878f0a","totalBytes":3.665377e+06,"receivedBytes":3.665377e+06,"state":"completed"}
+2021/04/22 21:43:43 ID:143973, download dir:/Users/n7n/chromedp_sample/download/143973 has 1 files: /Users/n7n/chromedp_sample/download/143973/p95v287.MacOSX.noGUI.tar.gz
+2021/04/22 21:43:43 ID:251352, download dir:/Users/n7n/chromedp_sample/download/251352 has 1 files: /Users/n7n/chromedp_sample/download/251352/p95v287.MacOSX.noGUI.tar.gz
+2021/04/22 21:43:43 ID:575361 download completed:{"guid":"4b79928d-40e4-4613-890e-7e29034ea696","totalBytes":3.665377e+06,"receivedBytes":3.665377e+06,"state":"completed"}
+2021/04/22 21:43:43 ID:822081 download completed:{"guid":"35b74713-5f8a-4061-8977-0b989a89931d","totalBytes":3.665377e+06,"receivedBytes":3.665377e+06,"state":"completed"}
+2021/04/22 21:43:43 ID:300605 download completed:{"guid":"3e496732-6b5d-4161-be19-9721ce6ca18b","totalBytes":3.665377e+06,"receivedBytes":3.665377e+06,"state":"completed"}
+2021/04/22 21:43:43 ID:575361, download dir:/Users/n7n/chromedp_sample/download/575361 has 1 files: /Users/n7n/chromedp_sample/download/575361/p95v287.MacOSX.noGUI.tar.gz
+2021/04/22 21:43:43 ID:604255 download completed:{"guid":"0653e486-69b3-42dc-836f-dfee4f3fcc90","totalBytes":3.665377e+06,"receivedBytes":3.665377e+06,"state":"completed"}
+2021/04/22 21:43:43 ID:604255, download dir:/Users/n7n/chromedp_sample/download/604255 has 1 files: /Users/n7n/chromedp_sample/download/604255/p95v287.MacOSX.noGUI.tar.gz
+2021/04/22 21:43:43 ID:300605, download dir:/Users/n7n/chromedp_sample/download/300605 has 1 files: /Users/n7n/chromedp_sample/download/300605/p95v287.MacOSX.noGUI.tar.gz
+2021/04/22 21:43:43 ID:822081, download dir:/Users/n7n/chromedp_sample/download/822081 has 1 files: /Users/n7n/chromedp_sample/download/822081/p95v287.MacOSX.noGUI.tar.gz
+2021/04/22 21:43:43 ID:121181 download completed:{"guid":"b256f443-ea55-4fff-b64c-5c28ba4c9002","totalBytes":3.665377e+06,"receivedBytes":3.665377e+06,"state":"completed"}
+2021/04/22 21:43:43 ID:040336 download completed:{"guid":"2a8cd149-ccc0-402f-8407-a4ec5258e0af","totalBytes":3.665377e+06,"receivedBytes":3.665377e+06,"state":"completed"}
+2021/04/22 21:43:43 ID:121181, download dir:/Users/n7n/chromedp_sample/download/121181 has 1 files: /Users/n7n/chromedp_sample/download/121181/p95v287.MacOSX.noGUI.tar.gz
+2021/04/22 21:43:43 ID:300768 download completed:{"guid":"ba6b6066-cb84-4ebf-b2a9-5f7daa9601d3","totalBytes":3.665377e+06,"receivedBytes":3.665377e+06,"state":"completed"}
+2021/04/22 21:43:43 ID:733321 download completed:{"guid":"ea9c1ed4-a88a-4349-ab57-eb928a1ae76b","totalBytes":3.665377e+06,"receivedBytes":3.665377e+06,"state":"completed"}
+2021/04/22 21:43:43 ID:040336, download dir:/Users/n7n/chromedp_sample/download/040336 has 1 files: /Users/n7n/chromedp_sample/download/040336/p95v287.MacOSX.noGUI.tar.gz
+2021/04/22 21:43:43 ID:300768, download dir:/Users/n7n/chromedp_sample/download/300768 has 1 files: /Users/n7n/chromedp_sample/download/300768/p95v287.MacOSX.noGUI.tar.gz
+2021/04/22 21:43:43 ID:733321, download dir:/Users/n7n/chromedp_sample/download/733321 has 1 files: /Users/n7n/chromedp_sample/download/733321/p95v287.MacOSX.noGUI.tar.gz
+2021/04/22 21:43:43 ID:360920 download completed:{"guid":"d5f9edcf-49ac-499e-82b2-6f5b20c25d77","totalBytes":3.665377e+06,"receivedBytes":3.665377e+06,"state":"completed"}
+2021/04/22 21:43:43 ID:630952 download completed:{"guid":"e3e9b005-b656-443b-8749-245afa6fcf32","totalBytes":3.665377e+06,"receivedBytes":3.665377e+06,"state":"completed"}
+2021/04/22 21:43:43 ID:360920, download dir:/Users/n7n/chromedp_sample/download/360920 has 1 files: /Users/n7n/chromedp_sample/download/360920/p95v287.MacOSX.noGUI.tar.gz
+2021/04/22 21:43:43 ID:630952, download dir:/Users/n7n/chromedp_sample/download/630952 has 1 files: /Users/n7n/chromedp_sample/download/630952/p95v287.MacOSX.noGUI.tar.gz
+2021/04/22 21:43:43 ID:004286 download completed:{"guid":"603ff757-8d49-499d-9116-be9547eeaf71","totalBytes":3.665377e+06,"receivedBytes":3.665377e+06,"state":"completed"}
+2021/04/22 21:43:43 ID:398512 download completed:{"guid":"1396daf3-245c-49b8-92f1-793fd3e3896d","totalBytes":3.665377e+06,"receivedBytes":3.665377e+06,"state":"completed"}
+2021/04/22 21:43:43 ID:004286, download dir:/Users/n7n/chromedp_sample/download/004286 has 1 files: /Users/n7n/chromedp_sample/download/004286/p95v287.MacOSX.noGUI.tar.gz
+2021/04/22 21:43:43 ID:398512 not found any file in download dir: /Users/n7n/chromedp_sample/download/398512

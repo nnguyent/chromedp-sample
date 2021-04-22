@@ -1,0 +1,35 @@
+$ go run main.go                                                                                     [1]
+2021/04/22 23:04:38 ID:938454, browser has 1 tabs
+2021/04/22 23:04:38 ID:938454 download start:{"frameId":"2B79A50AB60EB22969AA5031E7E57471","guid":"e7ff0d0c-a2b3-4a4a-85aa-95f29e1f00c6","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 23:04:39 ID:653924, browser has 2 tabs
+2021/04/22 23:04:39 ID:604960, browser has 3 tabs
+2021/04/22 23:04:40 ID:016712, browser has 4 tabs
+2021/04/22 23:04:40 ID:965704, browser has 5 tabs
+2021/04/22 23:04:41 ID:232449, browser has 6 tabs
+2021/04/22 23:04:41 ID:649839, browser has 7 tabs
+2021/04/22 23:04:42 ID:326807, browser has 8 tabs
+2021/04/22 23:04:42 ID:164403, browser has 9 tabs
+2021/04/22 23:04:43 ID:556753, browser has 10 tabs
+2021/04/22 23:04:52 ID:653924 download start:{"frameId":"C1EBBEE5445510C0207A6829B6545674","guid":"c6305386-fcfe-4f91-bee5-82752c17fe47","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 23:05:13 ID:016712 download start:{"frameId":"C1AAC2B0D7589B19268267BA1C7C0E4C","guid":"e6aea988-5540-48e8-af7f-5012ab7df271","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 23:05:13 ID:604960 download start:{"frameId":"D66B20C65B49B41D380C61A36B08317C","guid":"b7dda415-6158-4aa9-b81e-4d99aa84557b","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 23:05:27 ID:938454 download completed:{"guid":"e7ff0d0c-a2b3-4a4a-85aa-95f29e1f00c6","totalBytes":1.39460608e+08,"receivedBytes":1.39460608e+08,"state":"completed"}
+2021/04/22 23:05:27 ID:938454, download dir:/Users/n7n/chromedp_sample/download/938454 has 1 files: /Users/n7n/chromedp_sample/download/938454/alpine-standard-3.13.5-x86_64.iso
+2021/04/22 23:05:33 ID:232449 download start:{"frameId":"991189531B241FB2EC6645551049E1D9","guid":"0c91f83e-a5da-4acd-bd24-21ea9382c7ff","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 23:05:33 ID:965704 download start:{"frameId":"B82B701B8D936C24789D54F5D02F009D","guid":"e7a7e69d-f92c-4e1f-8ee8-479869890e4f","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 23:05:33 ID:965704 download canceled:{"guid":"e7a7e69d-f92c-4e1f-8ee8-479869890e4f","totalBytes":1.39460608e+08,"receivedBytes":0,"state":"canceled"}
+2021/04/22 23:05:33 ID:232449 download canceled:{"guid":"0c91f83e-a5da-4acd-bd24-21ea9382c7ff","totalBytes":1.39460608e+08,"receivedBytes":0,"state":"canceled"}
+2021/04/22 23:05:33 ID:965704 not found any file in download dir: /Users/n7n/chromedp_sample/download/965704
+2021/04/22 23:05:33 ID:232449 not found any file in download dir: /Users/n7n/chromedp_sample/download/232449
+2021/04/22 23:05:33 ID:649839 download start:{"frameId":"190EDBD22A35B86682E163173EA5C013","guid":"6b6a4465-118c-459c-826d-6668867bea37","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 23:05:33 ID:649839 download canceled:{"guid":"6b6a4465-118c-459c-826d-6668867bea37","totalBytes":1.39460608e+08,"receivedBytes":0,"state":"canceled"}
+2021/04/22 23:05:33 ID:649839 not found any file in download dir: /Users/n7n/chromedp_sample/download/649839
+2021/04/22 23:05:33 ID:326807 download start:{"frameId":"AB3F16D1EF63928DB3845A978103A4B7","guid":"b1220053-7181-423b-bd3d-8d6694e3d65c","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 23:05:33 ID:326807 download canceled:{"guid":"b1220053-7181-423b-bd3d-8d6694e3d65c","totalBytes":1.39460608e+08,"receivedBytes":0,"state":"canceled"}
+2021/04/22 23:05:33 ID:326807 not found any file in download dir: /Users/n7n/chromedp_sample/download/326807
+2021/04/22 23:05:33 ID:164403 download start:{"frameId":"D0DFD48DE1616DE7BCE11291FEE9C267","guid":"478314b8-a726-406a-ae07-3fa8cd034516","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 23:05:33 ID:164403 download canceled:{"guid":"478314b8-a726-406a-ae07-3fa8cd034516","totalBytes":1.39460608e+08,"receivedBytes":0,"state":"canceled"}
+2021/04/22 23:05:33 ID:164403 not found any file in download dir: /Users/n7n/chromedp_sample/download/164403
+2021/04/22 23:05:34 ID:556753 download start:{"frameId":"13029B2ADEFBCA56D7E34D603B5CCCFC","guid":"9dc2ab1f-dcb9-45f6-a7f6-ffb698ea9d95","url":"https://dl-cdn.alpinelinux.org/alpine/v3.13/releases/x86_64/alpine-standard-3.13.5-x86_64.iso","suggestedFilename":"alpine-standard-3.13.5-x86_64.iso"}
+2021/04/22 23:05:34 ID:556753 download canceled:{"guid":"9dc2ab1f-dcb9-45f6-a7f6-ffb698ea9d95","totalBytes":1.39460608e+08,"receivedBytes":0,"state":"canceled"}
+2021/04/22 23:05:34 ID:556753, download dir:/Users/n7n/chromedp_sample/download/556753 has 3 files: /Users/n7n/chromedp_sample/download/556753/alpine-standard-3.13.5-x86_64.iso (1).crdownload,/Users/n7n/chromedp_sample/download/556753/alpine-standard-3.13.5-x86_64.iso (2).crdownload,/Users/n7n/chromedp_sample/download/556753/alpine-standard-3.13.5-x86_64.iso.crdownload

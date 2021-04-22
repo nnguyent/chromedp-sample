@@ -52,12 +52,26 @@ type Client struct {
 }
 
 func NewClient() *Client {
+	var (
+		ctx    context.Context
+		cancel context.CancelFunc
+	)
+
 	// create a new browser
-	ctx, cancel := chromedp.NewContext(context.Background(), chromedp.WithLogf(log.Printf))
+	if os.Getenv("HEADLESS_ENV") == "container" {
+		opts := []chromedp.ExecAllocatorOption{
+			chromedp.ExecPath("/headless-shell/headless-shell"),
+		}
+
+		ctx, _ = chromedp.NewExecAllocator(context.Background(), opts...)
+		ctx, cancel = chromedp.NewContext(ctx, chromedp.WithDebugf(log.Printf)) //chromedp.WithLogf(log.Printf))
+	} else {
+		ctx, cancel = chromedp.NewContext(context.Background(), chromedp.WithDebugf(log.Printf)) //chromedp.WithLogf(log.Printf))
+	}
+
 	if err := chromedp.Run(ctx); err != nil {
 		cancel()
-		ctx = nil
-		log.Println("Failed to start browser:", err)
+		log.Fatal("Failed to start browser:", err)
 	}
 
 	return &Client{

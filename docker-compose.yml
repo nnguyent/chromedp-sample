@@ -1,0 +1,13 @@
+version: "3.7"
+
+services:
+  chromedp_sample:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: chromedp_sample
+    restart: always
+    environment:
+      - HEADLESS_ENV=container
+    ports:
+      - 8080:8080
